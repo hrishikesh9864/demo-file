@@ -1,7 +1,7 @@
 
 #include <stdbool.h>
 #include <stdio.h>
-
+mor change
 void swap(int* xp, int* yp)
 {
 	int temp = *xp;
